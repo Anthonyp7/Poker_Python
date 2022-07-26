@@ -1,0 +1,64 @@
+html, body{
+    background-image:url(https://www.alwihdainfo.com/photo/art/grande/12403364-19522980.jpg?v=1492673730);
+    background-size: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+.cartes {
+    text-align: center;
+}
+
+
+.cartes img{
+    height: 15%;
+    width: 15%;
+    padding: 30px;
+}
+
+.btn1{
+    text-align: center;
+}
+
+.cartes-img{
+    height: 15%;
+    width: 15%;
+    padding: 40px;
+    text-align: center;
+}
+
+.animate__fadeInDownBig{
+    --animate-duration: 1s;
+    --animate-delay: 2s;
+}
+
+.img-ipssi{
+    width: 100px;
+}
+
+.titre{
+    text-align: center;
+}
+
+
+.formulaire{
+    text-align: center;
+}
+
+.cart{
+    text-align: center;
+    padding-left: 150px;
+    width: 274px;
+}
+
+.form-chek-input{
+    display: none;
+}
+
+
+.playground{
+    padding-left: 12px;
+}
+
